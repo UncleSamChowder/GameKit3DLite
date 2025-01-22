@@ -699,7 +699,7 @@ PlayerSettings:
   cloudProjectId: e3c87292-a6df-48a7-a94c-23a307dbe3b9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer3DClient
+  projectName: GameKitCeperoLite
   organizationId: unclesamchowder
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
